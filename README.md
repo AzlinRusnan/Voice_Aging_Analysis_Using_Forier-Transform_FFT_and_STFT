@@ -1,7 +1,7 @@
 # <div align="center">Voice Aging Analysis: A Study on Siti Nurhaliza's Voice Using FFT and STFT
 # <div align="center">![Siti](images/siti.png)</div>
 
-## Azimat Cinta Lyric 🎤
+## 🎵 Azimat Cinta Lyric 🎤
 >Cahaya cinta menyinar
 >
 >Berkilauanlah selautan kasih
