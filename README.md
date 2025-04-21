@@ -15,67 +15,7 @@
 >Daku menjejaki pantai rindu
 >
 >Mengutip kasih yang terdampai
->
->Kau merantaikannya satu demi satu
->
->Dengan kasih sayang mu
->
->Kini menjadi kalungan azimat cintaku
->
->Walau tidak dibasahi hujan
->
->Namun tempiasnya menyegarkan
->
->Biarpun rembulan tidak di ribaan
->
->Namun cahayanya cukup menerangi bayangan
->
->Harumlah cinta di jiwa
->
->Sewangi kasturi syurgawi
->
->Semoga bahagia jadi milik kita
->
->Nan abadi selama-lamanya
->
->Daku menjejaki pantai rindu
->
->Menyaksikan rintihan berlalu
->
->Ombak resah yang menghempas diri
->
->Hanyutkanlah kedukaan
->
->Bawalah jauh dari pada bayangan
->
->Walau tidak dibasahi hujan
->
->Namun tempiasnya menyegarkan
->
->Biarpun rembulan tidak di ribaan
->
->Namun cahayanya cukup menerangi bayangan
->
->Harumlah cinta di jiwa
->
->Sewangi kasturi syurgawi
->
->Semoga bahagia jadi milik kita
->
->Nan abadi selama-lamanya
->
->Andai sinar mentari
->
->Terlindung di balik redupan awanan
->
->Yang berlabuh
->
->Singkaplah tirai kasihmu
->
->Agar bisa ia menyinarkan cahayanya
->
->Untuk kita berdua
->
+
 
 ## Introduction
 This study compares the vocal characteristics of Siti Nurhaliza in 2001 and 2022 by analysing the song "Azimat Cinta." The analysis includes waveform analysis, Fourier Transform (FFT), Short-Time Fourier Transform (STFT), and average spectrum analysis to identify changes due to aging.
